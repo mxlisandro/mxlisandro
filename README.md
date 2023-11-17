@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: TypeScript and System Design.
 - 💬 Ask me about: React, Node, Express, MongoDB, PostrgreSQL, ORM.
 - 📫 How to reach me: [lisan_daniel@hotmail.com](/)
-- ⚡ Fun fact: Modifying my espresso machine with Arduino!
+- ⚡ Fun fact: I'm modifying my espresso machine with Arduino!
 <!--
 **mxlisandro/mxlisandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
